@@ -41,7 +41,7 @@ params:
 #      - alt: HTML5 UP
 #        text: 'Design: '
 #        url: https://www.html5up.net
-    social:
+  social:
 #      - icon: fa-twitter
  #       label: Twitter
   #      url: https://www.twitter.com
