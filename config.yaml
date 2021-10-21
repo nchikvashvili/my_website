@@ -72,12 +72,6 @@ params:
       #- name: Blogs
        # url: blogs
       #- name: Generic Blog
-
-```
-knitr::include_graphics("/img/LinkedIn_photo.jpg",error =FALSE)
-knitr::include_graphics("/img/Teamplayer.jpg",error =FALSE)
-knitr::include_graphics("/img/MCKC.jpg",error =FALSE)
-```
         #url: blogs/ipsum
       #- name: Elements
         #url: elements.html
