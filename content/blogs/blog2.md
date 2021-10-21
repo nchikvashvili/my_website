@@ -7,7 +7,7 @@ description: Lorem Etiam Nullam
 draft: false
 image: Teamplayer.jpg
 keywords: ""
-slug: magna
+slug: cases
 title: Case sompetitions
 ---
 

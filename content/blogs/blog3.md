@@ -11,7 +11,7 @@ draft: false
 image: pic08.jpg
 keywords: ""
 slug: tempus
-title: Tempus
+title: Professional experience
 ---
 
 My love for wearing formal clothes helps me feel comfortable when I work, because my line of work implies that people wear business formal. I aim to build a career in Investment Banking.

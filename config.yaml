@@ -93,10 +93,6 @@ params:
         subtitle: Case competitions
         title: I am a team player
         url: blogs/magna
-      - image: lbs.jpg
-        subtitle: LBS
-        title: I study at my first choice business school
-        url: blogs/ipsum
       - image: MCKC.jpg
         subtitle: Kid Clutch
         title: I also write rap music
