@@ -8,13 +8,13 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      #AND RELEASED UNDER THE CREATIVE COMMONS.
+#      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+#      AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Niko Chikvashvili
   blog: {}
   contact:
     address:
-      - city: London, ST 00000
+      - city: London, NW1 6BJ
         country: United Kingdom
         street: Regent's Park
         title: Address
@@ -72,6 +72,12 @@ params:
       #- name: Blogs
        # url: blogs
       #- name: Generic Blog
+
+```
+knitr::include_graphics("/img/LinkedIn_photo.jpg",error =FALSE)
+knitr::include_graphics("/img/Teamplayer.jpg",error =FALSE)
+knitr::include_graphics("/img/MCKC.jpg",error =FALSE)
+```
         #url: blogs/ipsum
       #- name: Elements
         #url: elements.html
@@ -82,37 +88,33 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: LBS
+        title: I study at my first choice business school
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: LinkedIn_photo.jpg
+        subtitle: Finance nerd
+        title: I like wearing formal clothes (sometimes)
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: Teamplayer.jpg
+        subtitle: Case competitions
+        title: I am a team player
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: test
+        title: I will try attaching a relevant file here
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+      - image: MCKC.jpg
+        subtitle: Kid Clutch
+        title: I also write rap music
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: I have made it through the course (almost)
+        title: Data Analytics for Finance
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "This website is a short summary of what I have been doing for the last 22 years.
+      \r\n    Evidently, I have not done enough, since everything fits on one page."
+    title: My website
     url: blogs
