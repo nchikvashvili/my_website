@@ -8,7 +8,7 @@ draft: false
 image: Teamplayer.jpg
 keywords: ""
 slug: cases
-title: Case sompetitions
+title: Case competitions
 ---
 
 I have competed in and won several domestic and international finance and consulting case competitions.
