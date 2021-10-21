@@ -81,9 +81,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: LBS
-        title: I study at my first choice business school
+      - image: pic04.jpg
+        subtitle: Test
+        title: I will try attaching a relevant file here
         url: blogs/risk_return
       - image: LinkedIn_photo.jpg
         subtitle: Finance nerd
@@ -93,9 +93,9 @@ params:
         subtitle: Case competitions
         title: I am a team player
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: test
-        title: I will try attaching a relevant file here
+      - image: lbs.jpg
+        subtitle: LBS
+        title: I study at my first choice business school
         url: blogs/ipsum
       - image: MCKC.jpg
         subtitle: Kid Clutch

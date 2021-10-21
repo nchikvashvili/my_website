@@ -13,3 +13,7 @@ keywords: ""
 slug: tempus
 title: Tempus
 ---
+
+My love for wearing formal clothes helps me feel comfortable when I work, because my line of work implies that people wear business formal. I aim to build a career in Investment Banking.
+
+I have previously interned in Investment Banking in Russia at Credit Suisse. I have also worked in equity research at Invest Heroes (Yes, I love the name as well).

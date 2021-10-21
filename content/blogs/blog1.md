@@ -8,7 +8,7 @@ draft: false
 image: pic10.jpg
 keywords: ""
 slug: ipsum
-title: Ipsum
+title: I also write rap music
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+I have some hobbies as well. I write rap music and I've even performed at a small local music festival. In addition to that, I am really into sports. I had a professional junior chess rank. I also run quite regularly. Moreover, I try play football and basketball. I also support Manchester United, which has been quite challenging in the last several years.
